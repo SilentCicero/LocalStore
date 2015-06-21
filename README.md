@@ -45,5 +45,6 @@ As last parameter, you can also run a callback after the data was set, or get
 Authors
 -------
 
-Original: Fabian Vogelsteller (Ethereum Dev) <github.com/frozeman>
-Modifications: Nick Dodson <thenickdodson@gmail.com> 
+Original by: Fabian Vogelsteller (Ethereum Dev) github.com/frozeman
+
+Modifications by: Nick Dodson <thenickdodson@gmail.com> 
