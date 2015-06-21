@@ -45,4 +45,5 @@ As last parameter, you can also run a callback after the data was set, or get
 Authors
 -------
 
-This module was originally created by Fabian Vogelsteller (Ethereum Dev) <github.com/frozeman> and has been modified for NPM and general usage by Nick Dodson <thenickdodson@gmail.com> 
+Original: Fabian Vogelsteller (Ethereum Dev) <github.com/frozeman>
+Modifications: Nick Dodson <thenickdodson@gmail.com> 
