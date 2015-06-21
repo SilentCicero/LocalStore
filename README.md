@@ -4,13 +4,19 @@ A wrapper for localStorage, which will use chrome.storage if used in a chrome pa
 Installation
 -----------
 
-    $ meteor add frozeman:storage
+    $ meteor add frozeman:storage    
+
+    $ npm install localstorejs
 
 
 Description
 -----------
 
 This is a **reactive** wrapper for localstorage, which will use chrome.storage.local if its used in a chrome packaged app.
+
+If using NPM:
+
+    var LocalStore = require('localstorejs');
 
 To set an item just use:
 

@@ -1,0 +1,23 @@
+{
+  "name": "localstorejs",
+  "version": "0.1.9",
+  "description": "A wrapper for localStorage, which will use chrome.storage if used in a chrome packaged app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "local",
+    "store",
+    "frozeman",
+    "localStore",
+    "reactive",
+    "wrapper",
+    "chrome"
+  ],
+  "author": "Fabian Vogelsteller (frozeman)",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
