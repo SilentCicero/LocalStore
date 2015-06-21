@@ -1,5 +1,5 @@
 # LocalStore
-A wrapper for localStorage, which will use chrome.storage if used in a chrome packaged app. 
+A wrapper for localStorage, which will use chrome.storage if used in a chrome packaged app.
 
 Installation
 -----------
@@ -41,3 +41,8 @@ As last parameter, you can also run a callback after the data was set, or get
     	// do x	
 	});
 
+
+Authors
+-------
+
+This module was originally created by Fabian Vogelsteller (Ethereum Dev) <github.com/frozeman> and has been modified for NPM and general usage by Nick Dodson <thenickdodson@gmail.com> 
